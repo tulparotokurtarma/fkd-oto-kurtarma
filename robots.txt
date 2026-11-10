@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fkdotokurtarma.com.tr/sitemap.xml

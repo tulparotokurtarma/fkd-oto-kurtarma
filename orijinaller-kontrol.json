@@ -1,0 +1,65 @@
+[
+  {
+    "file": "fkd-01-mavi-suv.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 14.46.48 (1).jpeg",
+    "sha256": "706880b797b00c02a2638009aef23780a630e82236341f3791ffe8d03815ba92",
+    "alt": "Mavi SUV araç platform çekicide taşınırken",
+    "bytes": 155464
+  },
+  {
+    "file": "fkd-02-siyah-otomobil.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 14.46.47 (1).jpeg",
+    "sha256": "7d3aa880481d9a5be51b00a9627622a56668890bbfaab7c50a7e89c6c8d0267f",
+    "alt": "Siyah otomobil çekici platformunda",
+    "bytes": 239129
+  },
+  {
+    "file": "fkd-03-gece-otomobil.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 14.46.48 (2).jpeg",
+    "sha256": "3dc62247cbd3d7b02ef46e900adf2191dfb978f3a75705871a595d3b7e5d35ca",
+    "alt": "Gece saatlerinde platform çekicide taşınan beyaz otomobil",
+    "bytes": 180547
+  },
+  {
+    "file": "fkd-04-hafif-ticari.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 14.46.47.jpeg",
+    "sha256": "00b0fc673b8f01a094709557a90cbf8f67f0bfa0cbbbbae0d1b0287cbfdedb3c",
+    "alt": "Çekicide taşınan beyaz hafif ticari araç",
+    "bytes": 228649
+  },
+  {
+    "file": "fkd-05-kamyonet.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 14.46.48.jpeg",
+    "sha256": "c6295af18ad7eab310bde522715094ec526ccd0bf9d13f1d1b6e805b86834fc7",
+    "alt": "Platform çekicide taşınan küçük kamyonet",
+    "bytes": 164161
+  },
+  {
+    "file": "fkd-06-kapali-kasa-kamyon.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 20.25.21.jpeg",
+    "sha256": "4443efa63300ad00b25b408ef9b885c7b87e92a749e4081b12a606ee96d8c050",
+    "alt": "Iveco çekici üzerinde taşınan kapalı kasa kamyon",
+    "bytes": 187910
+  },
+  {
+    "file": "fkd-07-forklift.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 20.24.48.jpeg",
+    "sha256": "1853a4fc552441d27e3519305af8e8fe0fbd4f6018f929d50c8b9b7d9a08b99f",
+    "alt": "Çekici üzerinde taşınan forklift",
+    "bytes": 170281
+  },
+  {
+    "file": "fkd-08-yuk-kamyonu.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 20.24.28.jpeg",
+    "sha256": "c0268ea8875b1a9dc8fb50863de6fc88645aa421e066d3dcc89c565b083c5ee7",
+    "alt": "Çekicide taşınan yük kamyonu",
+    "bytes": 267799
+  },
+  {
+    "file": "fkd-09-gece-otobus.jpg",
+    "original": "WhatsApp Image 2026-11-10 at 20.24.08.jpeg",
+    "sha256": "f3a558af6627eaa98b689b66511f7d7dbd14633d2949131c380262308a77775d",
+    "alt": "Gece çekici platformunda taşınan otobüs",
+    "bytes": 164002
+  }
+]
